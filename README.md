@@ -1,12 +1,10 @@
-# Personal website
+# Tim personal website
 
-My personal website.
-
+My personal website [URL](https://timchiang.com/)
 
 
 ## Contributing
 
-----
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
@@ -19,7 +17,6 @@ Tim Chiang
 <!-- CONTACT -->
 ## Contact
 
-----
 Tim Chiang - [@TimJiang0106](https://twitter.com/TimJiang0106) - timchiang0106@gmail.com
 
 
